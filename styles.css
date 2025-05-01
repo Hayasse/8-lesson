@@ -1,0 +1,15 @@
+h3:first-of-type{
+    color:pink
+}
+#greycol {
+    color:grey
+}
+div>div p{
+    color:red 
+}
+div>div ~ p {
+    color:green
+}
+.yellow {
+    color:yellow
+}
